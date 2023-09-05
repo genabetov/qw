@@ -10,7 +10,7 @@ Just [download a zip archive](https://github.com/genabetov/qw/archive/refs/heads
 ## For Linux haxxors
 
 ```bash
-sudo apt install build-essential libexpat-dev libcurl4-openssl-dev libspeexdsp-dev libsndfile1-dev libpng-dev libjpeg-dev libcurl4-openssl-dev libjansson-dev libpcre3-dev libnotify-bin libnotify4 libsdl2-dev libpcre3-dev libxxf86vm-dev
+sudo apt install build-essential libspeex-dev libexpat-dev libcurl4-openssl-dev libspeexdsp-dev libsndfile1-dev libpng-dev libjpeg-dev libcurl4-openssl-dev libjansson-dev libpcre3-dev libnotify-bin libnotify4 libsdl2-dev libpcre3-dev libxxf86vm-dev
 
 cd ~
 git clone https://github.com/genabetov/qw
