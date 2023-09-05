@@ -1,5 +1,12 @@
 # QuakeWorld package
 
+## For Windows users
+
+Just [download a zip archive](https://github.com/genabetov/qw/archive/refs/heads/main.zip), don't forget to extract it.
+
+- `ezquake-std.exe` - client with legacy renderer
+- `ezquake-glsl.exe` - client with modern renderer
+
 ## For Linux haxxors
 
 ```bash
