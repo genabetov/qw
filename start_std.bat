@@ -1,1 +1,2 @@
-﻿start ezquake-std.exe /HIGH
+﻿
+start /HIGH ezquake-std.exe

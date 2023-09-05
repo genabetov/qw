@@ -1,1 +1,2 @@
-﻿start ezquake-glsl.exe /HIGH
+﻿
+start /HIGH ezquake-glsl.exe
